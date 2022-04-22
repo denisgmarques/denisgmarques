@@ -1,7 +1,8 @@
 ### Hi there! I'm Denis, welcome to my GitHub. 🌱
+<hr />
 
 ### How to reach me 📫
-<hr />
+💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
 
 <a href="https://www.linkedin.com/in/denis-marques/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -13,8 +14,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Full-stack developer**. </br> </br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+💻 I’m a **Full-stack developer** working on Business process automations and integrations. </br> </br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
     
