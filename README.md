@@ -14,7 +14,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Full-stack developer** working on Business process automations and integrations. </br> </br>
+💻 I’m a **Full-stack developer** working on business process automations and integrations using <a href="https://github.com/camunda">Camunda</a> and <a href="https://github.com/Activiti">Activiti</a> projects. </br> </br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
     
