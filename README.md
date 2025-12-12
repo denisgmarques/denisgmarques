@@ -16,7 +16,7 @@
 ### About Me 🚀
 💻 I’m a **Full-stack developer** working on business process automations and integrations using <a href="https://github.com/camunda">Camunda</a>, <a href="https://github.com/Activiti">Activiti</a> projects and recently the amazing tool <a href="https://n8n.com">N8N</a> doing Whatsapp AI Agents. </br> </br>
    
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+ <b><i>Technology should serve as a tool to enhance human well-being and quality of life, not the opposite, where humans become subservient to tech.</i></b>
     
 <br/>
 <hr />
