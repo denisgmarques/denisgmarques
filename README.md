@@ -27,22 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisgmarques&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
-## ⚡ Technologies I love and use
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Elasticsearch" height="30" width="60" src="https://miro.medium.com/max/1116/1*Co95dG0NmGfL-vGMSBtLWQ.png">
-  <img align="center" alt="Keycloak" height="30" width="40" src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_16px.svg">                                                       
-</div>
-
-
-
 <!--
 **denisgmarques/denisgmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
