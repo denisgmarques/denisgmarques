@@ -1,24 +1,52 @@
-### Hi there! I'm Denis, welcome to my GitHub. 🌱
-<hr />
+## 👋 Hey, I'm Denis
 
-### How to reach me 📫
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+I build systems that **work for humans — not the other way around.**
 
-<div style="background-color: white">
+---
+
+## 🚀 About Me
+
+💻 Full-stack developer focused on **automation, integrations, and intelligent systems**
+
+⚙️ I design and build:
+
+* Business process automation (BPM)
+* System integrations at scale
+* AI agents for WhatsApp & social platforms
+
+🧠 Working with tools like:
+
+* Camunda & Activiti (process orchestration)
+* n8n (automation & AI workflows)
+* Custom code for high-performance integrations
+
+---
+
+## 📫 Get in Touch
+
+💬 If you want to build something meaningful, automate chaos, or just exchange ideas — reach out.
+
 <a href="https://www.linkedin.com/in/denis-marques/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="mailto:denisgmarques@hotmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</div>
+
 <br/>
 
-### About Me 🚀
-💻 I’m a **Full-stack developer** working on business process automations and integrations using <a href="https://github.com/camunda">Camunda</a>, <a href="https://github.com/Activiti">Activiti</a> and doing AI agents with code and <a href="https://n8n.com">N8N</a> for whatsapp and social network integrations. </br> </br>
-   
- <b><i>Technology should serve as a tool to enhance human well-being and quality of life, not the opposite, where humans become subservient to tech.</i></b>
-    
+---
+
+## ⚡ Edge
+
+I don’t just write code.
+I design **flows, systems, and leverage**.
+
+Because in the end:
+
+> the best code is the one that **removes the need for more code.**
+
 <br/>
 
 
