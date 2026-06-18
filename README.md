@@ -1,3 +1,4 @@
+<div style="background-color=white;">
 ## 👋 Hey, I'm Denis
 
 I build systems that **serve people — not the other way around.**
@@ -64,3 +65,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
