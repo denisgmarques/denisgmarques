@@ -1,4 +1,3 @@
-<div style="background-color=white;">
 ## 👋 Hey, I'm Denis
 
 I build systems that **serve people — not the other way around.**
@@ -28,11 +27,19 @@ I build systems that **serve people — not the other way around.**
 💬 If you want to build something meaningful, automate chaos, or just exchange ideas — reach out.
 
 <a href="https://www.linkedin.com/in/denis-marques/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left"
+       width="28px"
+       style="background-color: white; padding: 4px; border-radius: 4px;"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+    />
 </a>
 
 <a href="mailto:denisgmarques@hotmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img  align="left"
+        width="26px"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
+        style="background-color: white; padding: 4px; border-radius: 4px;"
+    />
 </a>
 
 <br/>
@@ -65,5 +72,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</div>
