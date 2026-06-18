@@ -4,13 +4,14 @@
 ### How to reach me 📫
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
 
+<div style="background-color: white">
 <a href="https://www.linkedin.com/in/denis-marques/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:denisgmarques@hotmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</div>
 <br/>
 
 ### About Me 🚀
