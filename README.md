@@ -26,7 +26,7 @@ I build systems that **serve people — not the other way around.**
 
 💬 If you want to build something meaningful, automate chaos, or just exchange ideas — reach out.
 
-<a href="https://www.linkedin.com/in/denis-marques/">
+<a href="https://www.linkedin.com/in/denis-marques/" style="background-color: white; padding: 4px; border-radius: 4px;">
   <img align="left"
        width="28px"
        style="background-color: white; padding: 4px; border-radius: 4px;"
