@@ -30,14 +30,14 @@ I build systems that **serve people — not the other way around.**
   <img align="left"
        width="28px"
        style="background-color: white; padding: 4px; border-radius: 4px;"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+       src="https://img.icons8.com/color/48/linkedin.png"
     />
 </a>
 
 <a href="mailto:denisgmarques@hotmail.com">
   <img  align="left"
         width="26px"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
+        src="https://img.icons8.com/color/48/gmail-new.png"
         style="background-color: white; padding: 4px; border-radius: 4px;"
     />
 </a>
