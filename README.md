@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Denis
 
-I build systems that **work for humans — not the other way around.**
+I build systems that **serve people — not the other way around.**
 
 ---
 
