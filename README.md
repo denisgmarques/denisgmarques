@@ -34,13 +34,13 @@ I build systems that **serve people — not the other way around.**
     />
 </a>
 
-<a href="mailto:denisgmarques@hotmail.com">
+<!-- <a href="mailto:denisgmarques@hotmail.com">
   <img  align="left"
         width="26px"
         src="https://img.icons8.com/color/48/gmail-new.png"
         style="background-color: white; padding: 4px; border-radius: 4px;"
     />
-</a>
+</a> -->
 
 <br/>
 
