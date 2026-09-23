@@ -73,4 +73,4 @@ Have a messy process, a legacy system that needs a way out, or an agent idea tha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denismarques)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:denisgmarques@hotmail.com)
 
-> ☕ Fueled by coffee, BPMN diagrams and well-written logs.
+> ☕ Fueled by coffee.
